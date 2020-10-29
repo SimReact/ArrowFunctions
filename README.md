@@ -1,2 +1,2 @@
-# ArrowFunctions
+# Arrow Functions
 Learning React (Thursday)
