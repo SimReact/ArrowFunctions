@@ -1,2 +1,2 @@
 # ArrowFunctions
-Created with CodeSandbox
+Learning React (Thursday)
