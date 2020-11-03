@@ -1,2 +1,2 @@
 # Arrow Functions
-Learning React (Thursday)
+Learning React (Thursday, 29 November 2020)
